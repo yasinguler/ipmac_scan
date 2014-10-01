@@ -1,0 +1,6 @@
+C:\Users\Murat SAYICI\Desktop\projeler\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Murat SAYICI\Desktop\projeler\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Murat SAYICI\Desktop\projeler\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Murat SAYICI\Desktop\projeler\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Murat SAYICI\Desktop\projeler\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Murat SAYICI\Desktop\projeler\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
